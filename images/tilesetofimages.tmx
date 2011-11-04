@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="8" height="8" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="ArmyAim" tilewidth="64" tileheight="64">
+  <image source="ArmyAim.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="2" name="Armyv2" tilewidth="64" tileheight="64">
+  <image source="Armyv2.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="3" name="Blob64" tilewidth="64" tileheight="64">
+  <image source="Blob64.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="4" name="BlobUp" tilewidth="64" tileheight="64">
+  <image source="BlobUp.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="5" name="BRICKTILE" tilewidth="64" tileheight="64">
+  <image source="BRICKTILE.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="6" name="DeadArmy" tilewidth="64" tileheight="64">
+  <image source="DeadArmy.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="7" name="DeadScientist" tilewidth="64" tileheight="64">
+  <image source="DeadScientist.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="8" name="DeadZombie" tilewidth="64" tileheight="64">
+  <image source="DeadZombie.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="9" name="JackedScientist" tilewidth="64" tileheight="64">
+  <image source="JackedScientist.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="10" name="JackedScientistPos1" tilewidth="64" tileheight="64">
+  <image source="JackedScientistPos1.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="11" name="JackedScientistPos2" tilewidth="64" tileheight="64">
+  <image source="JackedScientistPos2.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="12" name="JackedScientistPos3" tilewidth="64" tileheight="64">
+  <image source="JackedScientistPos3.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="13" name="NoArmZombie" tilewidth="64" tileheight="64">
+  <image source="NoArmZombie.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="14" name="Grass" tilewidth="64" tileheight="64">
+  <image source="Grass.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="15" name="Pavement" tilewidth="64" tileheight="64">
+  <image source="Pavement.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="16" name="RoofDiagonal" tilewidth="64" tileheight="64">
+  <image source="RoofDiagonal.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="17" name="Rooftop" tilewidth="64" tileheight="64">
+  <image source="Rooftop.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="18" name="TileFloor" tilewidth="64" tileheight="64">
+  <image source="TileFloor.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="19" name="ZOMBIE64" tilewidth="64" tileheight="64">
+  <image source="ZOMBIE64.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="20" name="ZOMBIE64a" tilewidth="64" tileheight="64">
+  <image source="ZOMBIE64a.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="21" name="ZOMBIE64Chill" tilewidth="64" tileheight="64">
+  <image source="ZOMBIE64Chill.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="22" name="GreenChip" tilewidth="64" tileheight="64">
+  <image source="GreenChip.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="23" name="Concrete" tilewidth="64" tileheight="64">
+  <image source="Concrete.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="24" name="Concretetiles" tilewidth="64" tileheight="64">
+  <image source="Concretetiles.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="25" name="Barrier" tilewidth="64" tileheight="64">
+  <image source="Barrier.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="26" name="FirstShrub" tilewidth="64" tileheight="64">
+  <image source="FirstShrub.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="27" name="Tree" tilewidth="64" tileheight="64">
+  <image source="Tree.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="28" name="BushTree" tilewidth="64" tileheight="64">
+  <image source="BushTree.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="29" name="PicketFence" tilewidth="64" tileheight="64">
+  <image source="PicketFence.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="30" name="Bottles" tilewidth="64" tileheight="64">
+  <image source="Bottles.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="31" name="Fridge" tilewidth="64" tileheight="64">
+  <image source="Fridge.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="32" name="UndergroundWallCorner" tilewidth="64" tileheight="64">
+  <image source="UndergroundWallCorner.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="33" name="UndergroundWall" tilewidth="64" tileheight="64">
+  <image source="UndergroundWall.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="34" name="Pipe1" tilewidth="64" tileheight="64">
+  <image source="Pipe1.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="35" name="PipetURN" tilewidth="64" tileheight="64">
+  <image source="PipetURN.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="36" name="PipeAfterTurn" tilewidth="64" tileheight="64">
+  <image source="PipeAfterTurn.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="37" name="PipeEndT" tilewidth="64" tileheight="64">
+  <image source="PipeEndT.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="38" name="EndPipe" tilewidth="64" tileheight="64">
+  <image source="EndPipe.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="39" name="miketike" tilewidth="64" tileheight="64">
+  <image source="miketike.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="40" name="EricTile" tilewidth="64" tileheight="64">
+  <image source="EricTile.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="41" name="UriTile" tilewidth="64" tileheight="64">
+  <image source="UriTile.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="42" name="Barrier" tilewidth="64" tileheight="64">
+  <image source="Barrier.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="43" name="Water" tilewidth="64" tileheight="64">
+  <image source="Water.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="44" name="BlueChip" tilewidth="64" tileheight="64">
+  <image source="BlueChip.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="45" name="PurpleBlob" tilewidth="64" tileheight="64">
+  <image source="PurpleBlob.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="46" name="PurpleBlobPossess" tilewidth="64" tileheight="64">
+  <image source="PurpleBlobPossess.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="47" name="RedBlobPossess" tilewidth="64" tileheight="64">
+  <image source="RedBlobPossess.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="48" name="PurpleBlobPossessArrow" tilewidth="64" tileheight="64">
+  <image source="PurpleBlobPossessArrow.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJy1w9cNglAAAMAniQWx0TWi2BNiwf2n8z5cgUtuFEKInJu4MLewdOnbj5UTp86MXbl2Y2pm7daxZ0//F6/evPuw9ejBxr07n77s/doN9AcMBQd8
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjZAAABAAAB
+  </data>
+ </layer>
+</map>

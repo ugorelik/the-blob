@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="19" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="BRICKTILE" tilewidth="64" tileheight="64">
+  <image source="BRICKTILE.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="2" name="TileFloor" tilewidth="64" tileheight="64">
+  <image source="TileFloor.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="3" name="Grass" tilewidth="64" tileheight="64">
+  <image source="Grass.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="4" name="RoofDiagonal" tilewidth="64" tileheight="64">
+  <image source="RoofDiagonal.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="5" name="Pavement" tilewidth="64" tileheight="64">
+  <image source="Pavement.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="6" name="JackedScientist" tilewidth="64" tileheight="64">
+  <image source="JackedScientist.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="7" name="Scientist64RIGHT" tilewidth="64" tileheight="64">
+  <image source="Scientist64RIGHT.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="8" name="TheBlob" tilewidth="64" tileheight="64">
+  <image source="TheBlob.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="9" name="Armyv2DOWN" tilewidth="64" tileheight="64">
+  <image source="Armyv2DOWN.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="10" name="Scientist64DOWN" tilewidth="64" tileheight="64">
+  <image source="Scientist64DOWN.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="11" name="ArmyAimRIGHT" tilewidth="64" tileheight="64">
+  <image source="ArmyAimRIGHT.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="12" name="ZOMBIE64" tilewidth="64" tileheight="64">
+  <image source="ZOMBIE64.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="13" name="ZOMBIE64LEFT" tilewidth="64" tileheight="64">
+  <image source="ZOMBIE64LEFT.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="14" name="DeadScientist" tilewidth="64" tileheight="64">
+  <image source="DeadScientist.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="15" name="SampleScore" tilewidth="192" tileheight="128">
+  <image source="SampleScore.png" trans="ff00ff" width="192" height="128"/>
+ </tileset>
+ <tileset firstgid="16" name="Courtyard" tilewidth="192" tileheight="128">
+  <image source="Courtyard.png" trans="ff00ff" width="192" height="128"/>
+ </tileset>
+ <tileset firstgid="17" name="Completion" tilewidth="192" tileheight="124">
+  <image source="Completion.png" trans="ff00ff" width="192" height="128"/>
+ </tileset>
+ <layer name="Tile Layer 2" width="19" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZmBgYEbCjFDMjAcz4cDo6ogxC5e5jBRgWppFjr/wqR9uZmELv4E0i1z/D5RZAIclAhY=
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="19" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAPePHIcaPxBQiYRQzgpIIZQx3wIbE5SNDHRW2H0AmwDbQDBhDwo/EB6EQAZw==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="19" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDBQQROMDAASgABI=
+  </data>
+ </layer>
+</map>
